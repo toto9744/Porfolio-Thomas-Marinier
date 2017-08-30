@@ -87,13 +87,15 @@ footer{
     padding-left: 15px;
     padding-right: 15px;
 }
+
+
 footer
 {
     text-align:center;
-    position: fixed;
-    bottom:0;
-    width:100%;
+   
+    
+    
     display:inline-block;
-    vertical-align:top;
+  
     font-size:13px;
-}
+} 
